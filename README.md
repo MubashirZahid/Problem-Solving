@@ -1,2 +1,2 @@
 # Problem-Solving
-we shall solve problems from the neetcode list.
+This is a git repository for solving problems of coding challenges.
